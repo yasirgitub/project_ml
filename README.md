@@ -6,7 +6,7 @@ An end-to-end machine learning project designed to analyze teen lifestyle factor
 
 ## 🚀 Live Demo & Access
 
-* **GitHub Repository:** [yasirgitub/project_ml](https://github.com/yasirgitub/project_ml)
+* **Try the web app:** [🌐](https://project-ml-2-4z3n.onrender.com)
 
 ---
 
